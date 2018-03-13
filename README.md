@@ -1,6 +1,14 @@
-# nuxt-learn
+# demo
 
-> Nuxt.js project
+> 这是一个学习nuxt的demo
+> 基本上是nuxt官网的内容
+
+## 包含
+* layout的使用
+* 嵌套及动态路由
+* 中间件middleware
+* vuex
+* iview 第三方的UI框架
 
 ## Build Setup
 

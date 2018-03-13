@@ -1,8 +1,8 @@
 {
   "name": "nuxt-learn",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "huangzr <huangzhirong@huluwa.cc>",
+  "description": "Nuxt.js demo",
+  "author": "huangzr <fishhzr@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
