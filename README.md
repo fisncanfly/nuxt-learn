@@ -9,6 +9,7 @@
 * 中间件middleware
 * vuex
 * iview 第三方的UI框架
+* 页面head头信息设置
 
 ## Build Setup
 
